@@ -1,0 +1,16 @@
+{
+  "name": "gps-analytics-neolab",
+  "version": "1.0.0",
+  "description": "GPS & Analytics Marketing par Parfait Guiri",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.0",
+    "axios": "^1.6.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "nodemailer": "^6.9.7"
+  }
+}
